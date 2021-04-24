@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="increment_textView" type="id">increment</item>
+    <item name="button_increment" type="id">buttonincrement</item>
+</resources>
